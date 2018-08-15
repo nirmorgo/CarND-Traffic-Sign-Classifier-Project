@@ -23,12 +23,12 @@ The goals / steps of this project are the following:
 [image2]: ./examples/random_batch.jpg "Random Batch"
 [image4]: ./examples/flip_aug.jpg "Flip Augmentation"
 [image5]: ./examples/warp_aug.jpg "Warp Augmentation"
-[image6]: ./data/downloaded_images/30kmh.jpg "Traffic Sign 1"
-[image7]: ./data/downloaded_images/highway_entry.jpg "Traffic Sign 2"
-[image8]: ./data/downloaded_images/no_entry.jpg "Traffic Sign 3"
-[image9]: ./data/downloaded_images/no_limit.jpg "Traffic Sign 4"
-[image10]: ./data/downloaded_images/Road_Work.jpg "Traffic Sign 5"
-[image11]: ./data/downloaded_images/stop.jpg "Traffic Sign 6"
+[image6]: ./examples/web_images/30kmh.jpg "Traffic Sign 1"
+[image7]: ./examples/web_images/highway_entry.jpg "Traffic Sign 2"
+[image8]: ./examples/web_images/no_entry.jpg "Traffic Sign 3"
+[image9]: ./examples/web_images/no_limit.jpg "Traffic Sign 4"
+[image10]: ./examples/web_images/Road_Work.jpg "Traffic Sign 5"
+[image11]: ./examples/web_images/stop.jpg "Traffic Sign 6"
 [image12]: ./examples/web_images_result.jpg "Web Images Result"
 
 ## Rubric Points
